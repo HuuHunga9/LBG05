@@ -1,0 +1,25 @@
+@media (min-width: 768px) {
+    .ladi-section .ladi-container {
+        width: 960px;
+    }
+}
+
+@media (max-width: 767px) {
+    .ladi-section .ladi-container {
+        width: 420px;
+    }
+}
+
+@font-face {
+    font-family: "UTM Avo.ttf";
+    src: url("https://w.ladicdn.com/5ed75ec98976533f27ff7845/utm-avo-20210517040229.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "UTM AvoBold.ttf";
+    src: url("https://w.ladicdn.com/5ed75ec98976533f27ff7845/utm-avobold-20210517040229.ttf") format("truetype");
+}
+
+body {
+    font-family: "Open Sans", sans-serif
+}
